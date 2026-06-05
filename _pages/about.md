@@ -6,7 +6,7 @@ subtitle: Master's student in Computational Linguistics at LMU Munich
 
 profile:
   align: right
-  image: profile.jpg
+  image: xinyuan.jpg
   image_circular: false
 
 selected_papers: false
