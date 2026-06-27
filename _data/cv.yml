@@ -1,62 +1,11 @@
 cv:
   name: Xinyuan Cheng
-  label: Master's student in Computational Linguistics and Informatics
+  headline: Master's student in Computational Linguistics and Informatics
   email: Xinyuan.Cheng@campus.lmu.de
   location: Munich, Germany
-  image: /assets/img/xinyuan.jpg
-  summary: I evaluate and interpret foundation model behavior beyond single accuracy numbers, with a focus on reasoning traces, evaluation frameworks, retrieval-augmented generation, multilingual and pragmatic reasoning, and human label variation.
+  photo: ../assets/img/xinyuan.jpg
 
   sections:
-    Education:
-      - institution: Ludwig-Maximilians-Universitat Munchen
-        location: Munich, Germany
-        area: Computational Linguistics and Informatics
-        studyType: M.Sc.
-        start_date: 2024-10
-        end_date: Present
-        score: 1.06/1.0
-        highlights:
-          - Master's student
-
-      - institution: Shanghai Jiao Tong University
-        location: Shanghai, China
-        area: German Linguistics
-        studyType: B.A.
-        start_date: 2020-09
-        end_date: 2024-07
-        highlights:
-          - Thesis title: The evaluation of large language models with regard to the ambiguity recognition of the word "wieder".
-
-      - institution: Ludwig-Maximilians-Universitat Munchen
-        location: Munich, Germany
-        area: Computational Linguistics
-        studyType: Exchange
-        start_date: 2022-10
-        end_date: 2023-02
-        score: 1.0/1.0
-
-    Experience:
-      - company: Munich AI & NLP (MaiNLP), Ludwig-Maximilians-Universitat Munchen
-        position: Scientific Programmer
-        location: Munich, Germany
-        start_date: 2026-01
-        end_date: Present
-        summary: Developing an open-source, research-oriented toolkit for HLV, including model training, evaluation, and experimental analysis pipelines.
-
-      - company: Munich AI & NLP (MaiNLP), Ludwig-Maximilians-Universitat Munchen
-        position: Research Assistant
-        location: Munich, Germany
-        start_date: 2025-07
-        end_date: 2025-12
-        summary: Contributed to the Premise and PyPremise projects, worked on code development, added tutorials, and improved cross-platform support. Led an empirical study on the meta-evaluation of RAG metrics to benchmark reliability and alignment with human judgments.
-
-      - company: Computational Linguistics Lab, School of Foreign Languages, Shanghai Jiao Tong University
-        position: Research Assistant
-        location: Shanghai, China
-        start_date: 2023-03
-        end_date: 2024-06
-        summary: Contributed to SwordsmanImp, a Chinese conversational implicature benchmark, with a focus on evaluation dataset construction. Assisted in the ArguGPT project through syntactic and linguistic analysis of GPT-generated argumentative essays.
-
     Publications:
       - title: "Reasoning that travels: Dissecting how chain-of-thought transfers across models"
         authors:
@@ -65,7 +14,7 @@ cv:
           - P. Mondorf
           - B. Plank
         publisher: arXiv preprint
-        releaseDate: 2026
+        date: 2026
         url: https://arxiv.org/abs/2605.28913
         summary: Under review for EMNLP 2026.
 
@@ -85,3 +34,53 @@ cv:
       - name: Tools
         level: Proficient
         keywords: LaTeX, PyCharm, Linux, Jupyter Notebook, VS Code, Git
+
+    Education:
+      - institution: Ludwig-Maximilians-Universitat Munchen
+        location: Munich, Germany
+        area: Computational Linguistics and Informatics
+        degree: M.Sc.
+        start_date: 2024-10
+        end_date: present
+        score: 1.06/1.0
+        highlights:
+          - Master's student
+
+      - institution: Shanghai Jiao Tong University
+        location: Shanghai, China
+        area: German Linguistics
+        degree: B.A.
+        start_date: 2020-09
+        end_date: 2024-07
+        highlights:
+          - Thesis title: The evaluation of large language models with regard to the ambiguity recognition of the word "wieder".
+
+      - institution: Ludwig-Maximilians-Universitat Munchen
+        location: Munich, Germany
+        area: Computational Linguistics
+        degree: Exchange
+        start_date: 2022-10
+        end_date: 2023-02
+        score: 1.0/1.0
+
+    Experience:
+      - company: Munich AI & NLP (MaiNLP), Ludwig-Maximilians-Universitat Munchen
+        position: Scientific Programmer
+        location: Munich, Germany
+        start_date: 2026-01
+        end_date: present
+        summary: Developing an open-source, research-oriented toolkit for HLV, including model training, evaluation, and experimental analysis pipelines.
+
+      - company: Munich AI & NLP (MaiNLP), Ludwig-Maximilians-Universitat Munchen
+        position: Research Assistant
+        location: Munich, Germany
+        start_date: 2025-07
+        end_date: 2025-12
+        summary: Contributed to the Premise and PyPremise projects, worked on code development, added tutorials, and improved cross-platform support. Led an empirical study on the meta-evaluation of RAG metrics to benchmark reliability and alignment with human judgments.
+
+      - company: Computational Linguistics Lab, School of Foreign Languages, Shanghai Jiao Tong University
+        position: Research Assistant
+        location: Shanghai, China
+        start_date: 2023-03
+        end_date: 2024-06
+        summary: Contributed to SwordsmanImp, a Chinese conversational implicature benchmark, with a focus on evaluation dataset construction. Assisted in the ArguGPT project through syntactic and linguistic analysis of GPT-generated argumentative essays.
