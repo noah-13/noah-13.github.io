@@ -18,3 +18,7 @@ I am a Master's student in Computational Linguistics and Informatics at Ludwig-M
 My research interests include large language models, reasoning, retrieval-augmented generation (RAG), multilingual and pragmatic evaluation, and human label variation (HLV).
 
 Currently, I am also a Scientific Programmer at Munich AI & NLP (MaiNLP), University of Munich (LMU), where I am developing an open-source, research-oriented toolkit for HLV.
+
+<div>
+  <a class="btn btn-primary" href="/assets/pdf/xinyuan_cv.pdf" target="_blank" rel="noopener">View CV</a>
+</div>
