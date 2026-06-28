@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student in Computational Linguistics and Informatics at LMU Munich
 
 profile:
   align: right
