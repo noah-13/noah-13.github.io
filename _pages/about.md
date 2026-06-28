@@ -16,7 +16,7 @@ I am a Master's student in Computational Linguistics and Informatics at the Cent
 
 My research interests include large language models, reasoning, retrieval-augmented generation (RAG), multilingual and pragmatic evaluation, and human label variation (HLV).
 
-Before that, I received my Bachelor's degree from <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University (SJTU)</a>.
+Before that, I received my Bachelor's degree from Shanghai Jiao Tong University (<a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener">SJTU</a>).
 
 Currently, I am also a Scientific Programmer at Munich AI & NLP (<a href="https://mainlp.github.io/" target="_blank" rel="noopener">MaiNLP</a>), where I am developing an open-source, research-oriented toolkit for HLV.
 
