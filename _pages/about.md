@@ -19,6 +19,8 @@ My research interests include large language models, reasoning, retrieval-augmen
 
 Currently, I am also a Scientific Programmer at Munich AI & NLP (MaiNLP), University of Munich (LMU), where I am developing an open-source, research-oriented toolkit for HLV.
 
-<div>
-  <a class="btn btn-primary" href="/assets/pdf/xinyuan_cv.pdf" target="_blank" rel="noopener">View CV</a>
+<div class="mt-4">
+  <a class="btn btn-primary btn-lg rounded-pill px-4" href="/assets/pdf/xinyuan_cv.pdf" target="_blank" rel="noopener">
+    <i class="fa-solid fa-file-pdf me-2"></i>View CV
+  </a>
 </div>
