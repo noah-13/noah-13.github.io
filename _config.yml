@@ -338,7 +338,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Cheng]
+  last_name: [Cheng, Cheng*]
   first_name: [Xinyuan, X.]
 
   style: apa
